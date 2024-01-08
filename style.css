@@ -1,0 +1,12 @@
+html{
+    height: auto;
+    width: auto;
+    background-color: lightgray;
+}
+
+.title {
+    text-align: center;
+    font-weight: bold;
+    font-family: Helvetica;
+}
+
