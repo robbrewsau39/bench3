@@ -10,3 +10,9 @@ html{
     font-family: Helvetica;
 }
 
+.tbl {
+    border: 2px solid white;
+    background-color: black;
+    text-align: center;
+    position: fixed;
+}
