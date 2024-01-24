@@ -9,7 +9,7 @@ p{
     text-indent: 4em;
 }
 
-h5.boxing{
+h4.boxing{
     width: 200px;
     height: 200px;
     text-align: center;
@@ -18,7 +18,7 @@ h5.boxing{
     transition: transform 1s, width 1s, height 1s, background-color 1s, color 1s;
 }
 
-h5.boxing:active{
+h4.boxing:active{
     width: 400px;
     height: 300px;
     transform: rotate(360deg);
