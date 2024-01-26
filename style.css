@@ -35,7 +35,7 @@ h4.boxing2{
     text-align: center;
     background: radial-gradient(circle, pink, hotpink);
     color: black;
-    transition: width 3s, height 3s, font-family 3s, background 3s;
+    transition: width 3s, height 3s, font-family 3s, background 1s;
 }
 
 h4.boxing2:hover{
