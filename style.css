@@ -45,3 +45,9 @@ h4.boxing2:hover{
     font-family: "Times New Roman";
     background-color: hotpink;
 }
+
+h4{
+    display: inline-block;
+    padding-left: 50px;
+    padding-right: 50px;
+}
