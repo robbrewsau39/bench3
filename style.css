@@ -33,9 +33,9 @@ h4.boxing2{
     width: 200px;
     height: 200px;
     text-align: center;
-    background: radial-gradient(circle, pink, hotpink)
+    background: radial-gradient(circle, pink, hotpink);
     color: black;
-    transition: width 3s, height 3s, font-family 3s, background 3s
+    transition: width 3s, height 3s, font-family 3s, background 3s;
 }
 
 h4.boxing2:hover{
@@ -43,5 +43,5 @@ h4.boxing2:hover{
     height: 300px;
     text-align: center;
     font-family: "Times New Roman";
-    background: radial-gradient(circle, hotpink, pink)
+    background: radial-gradient(circle, hotpink, pink);
 }
